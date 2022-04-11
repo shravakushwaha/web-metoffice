@@ -1,0 +1,13 @@
+.datatab {
+  flex: 4;
+}
+.data {
+  height: 450px;
+  background-color: white;
+}
+.datagrid {
+  height: 600px;
+}
+.MuiDataGrid-columnsContainer {
+  background-color: darkgray !important;
+}
